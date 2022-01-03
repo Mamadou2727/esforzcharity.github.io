@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import CountUp from "react-countup";
 import VisibilitySensor from "react-visibility-sensor";
 import donateImage from "../images/donate-img.jpg";
+import icon from "../images/section-icon.png";
 
 class DonateArea extends Component {
   constructor() {
@@ -35,7 +36,7 @@ class DonateArea extends Component {
                 <div className="donate-item-content">
                   <div className="section-heading">
                     <div className="section-icon">
-                      <img src="/images/section-icon.png" alt="section-icon" />
+                      <img src={icon} alt="section-icon" />
                     </div>
                     <h2 className="section__title">
                       Pure Education for Childrens

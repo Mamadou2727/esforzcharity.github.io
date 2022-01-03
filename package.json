@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Layerdrops <layerdrops@gmail.com>",
   "dependencies": {
+    "@coreui/icons": "^2.1.0",
     "bootstrap": "^4.5.3",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",

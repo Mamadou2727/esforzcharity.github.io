@@ -46,10 +46,10 @@ const ServiceArea = () => {
             <div className="service-item service-item1">
               <div className="service-item-inner">
                 <div className="service-icon">
-                  <i className="icon-peace-1"></i>
+                  <i className="icon-praying"></i>
                 </div>
                 <div className="service-content">
-                  <h4 className="service__title">hope</h4>
+                  <h4 className="service__title">Education</h4>
                   <p className="service__desc">
                     Lorem ipsum is simply free text available in the market
                     wesbites.
@@ -78,7 +78,7 @@ const ServiceArea = () => {
             <div className="service-item service-item3">
               <div className="service-item-inner">
                 <div className="service-icon">
-                  <i className="icon-peace"></i>
+                  <i className="icon-peace-1"></i>
                 </div>
                 <div className="service-content">
                   <h4 className="service__title">peace</h4>

@@ -56,11 +56,9 @@ const MakeWorldArea = () => {
           <div className="col-lg-7">
             <div className="world-content">
               <p className="world__desc">
-                Tincidunt elit magnis nulla facilisis sagittis is maecenas.
-                Sapien nunced amet ultrices, dolores sit ipsum velit purus
-                aliquet, massa fringilla leo orci. Lorem ipsum dolor sit amet,
-                consectetur adipisi cing elit dolo rem consequ untur natus
-                laudantium commodie adipis.
+              Every child needs a hero, become that hero by sponsoring a child.
+              Your monthly contribution will help us support the children's education, 
+              medical care and living conditions.
               </p>
             </div>
           </div>
